@@ -33,8 +33,8 @@ const main = async () => {
 
 };
 
-const runMain = async () => {
-  try {
+            const runMain = async () => {
+              try {
     await main();
     process.exit(0);
   } catch (error) {
@@ -47,7 +47,7 @@ runMain();
 
 // npx hardhat run scripts/run.js
 
-
+// 
 
 // const main = async () => {
 //     const waveContractFactory = await hre.ethers.getContractFactory("WavePortal");
