@@ -21,7 +21,7 @@ module.exports = {
     networks: {
       goerli: {
         url: "https://wider-smart-card.rinkeby.discover.quiknode.pro/654415a910b15417520bc1baf90170971a30ff08/",
-        accounts: [""]
+        accounts: ["bhmbhbk"]
       },
     },
 };
